@@ -1,7 +1,8 @@
 {
-  "name": "kpca-email-api",
+  "name": "kpca-mailer",
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "resend": "^3.2.0"
+    "nodemailer": "6.9.14"
   }
 }
